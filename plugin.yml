@@ -1,0 +1,8 @@
+name: Murder
+version: Beta
+author: GameurDUXVI
+main: fr.gameurduxvi.murder.Main
+commands:
+  start:
+    description: Start the game
+    permission: game.murder.start
